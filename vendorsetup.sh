@@ -16,3 +16,4 @@
 
 add_lunch_combo aosp_hayabusa-eng
 add_lunch_combo aosp_hayabusa-userdebug
+add_lunch_combo aospcaf_hayabusa-userdebug
