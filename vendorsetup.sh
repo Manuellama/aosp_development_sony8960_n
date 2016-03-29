@@ -16,3 +16,4 @@
 
 add_lunch_combo aosp_tsubasa-eng
 add_lunch_combo aosp_tsubasa-userdebug
+add_lunch_combo aospcaf_tsubasa-userdebug
