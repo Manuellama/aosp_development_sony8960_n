@@ -16,3 +16,4 @@
 
 add_lunch_combo aosp_huashan-eng
 add_lunch_combo aosp_huashan-userdebug
+add_lunch_combo aospcaf_huashan-userdebug
