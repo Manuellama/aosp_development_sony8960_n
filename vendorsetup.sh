@@ -16,3 +16,4 @@
 
 add_lunch_combo aosp_mint-eng
 add_lunch_combo aosp_mint-userdebug
+add_lunch_combo aospcaf_mint-userdebug
